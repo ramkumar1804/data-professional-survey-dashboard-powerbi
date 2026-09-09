@@ -44,7 +44,7 @@ The original source dataset is not included in this repository. The project is p
 
 ## Dashboard Preview
 
-![Data Professional Survey Dashboard](Screenshots/data-professional-survey-dashboard.png)
+![Data Professional Survey Dashboard](Screenshots/data_professional_survey_dashboard.png)
 
 ## Repository Structure
 
